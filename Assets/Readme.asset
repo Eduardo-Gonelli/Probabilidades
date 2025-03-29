@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: c679c7be2ac7cfa4d8d588e5b6f4464e, type: 3}
+  title: Probabilidades
+  sections:
+  - heading: Estudo de probabilidades em jogos
+    text: "Quando falamos de probabilidades, v\xE1rios conceitos podem ser aplicados
+      e os mais comuns, de acordo com Bourg e Seeman (2004), s\xE3o: Aleatoriedade,
+      Probabilidades de Acerto, Habilidades de Personagens, Transi\xE7\xE3o de Estados
+      e Adaptabilidade."
+    linkText: 
+    url: 
+  - heading: Sobre o projeto
+    text: "Este projeto aplica alguns dos conceitos apresentados em aulas sobre probabilidades
+      em games, procurando explorar a parte pr\xE1tica."
+    linkText: 
+    url: 
+  loadedLayout: 1
