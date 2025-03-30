@@ -789,6 +789,7 @@ MonoBehaviour:
   txtRm: {fileID: 2145298495}
   txtRm3: {fileID: 636644702}
   txtRm10: {fileID: 1915703845}
+  n: 100
 --- !u!1 &1120956426
 GameObject:
   m_ObjectHideFlags: 0

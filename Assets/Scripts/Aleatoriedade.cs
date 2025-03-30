@@ -12,7 +12,7 @@ public class Aleatoriedade : MonoBehaviour
     List<int> rm = new List<int>();
     List<int> rm3 = new List<int>();
     List<int> rm10 = new List<int>();
-    int n = 100;
+    public int n = 100;
     
     void Start()
     {
